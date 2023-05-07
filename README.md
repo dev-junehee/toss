@@ -1,11 +1,25 @@
 # 토스(toss) 메인 홈페이지 클론 코딩
-## 실제 사이트와 배포한 과제물
-[토스 홈페이지](https://toss.im/)<br />
-[과제물 실제 배포 페이지](https://funny-vacherin-5977e2.netlify.app/)<br />
+토스 메인 홈페이지를 클론 코딩하였습니다.
+## 프로젝트 소개
+> 패스트캠퍼스 프론트엔드 개발 부트캠프 5기<br />
+> 개발 기간 : <br />
+> 배포 주소 : [DEMO](https://funny-vacherin-5977e2.netlify.app/)<br />
+> 실제 홈페이지 : [토스 홈페이지](https://toss.im/)<br />
+
+<br />
+
 ## 사용한 기술 스택
-HTML : `<header>` , `<section>` , `<footer>` 등<br />
-CSS : flex, position, hover 등<br />
-JS : scroll animation, 이미지 floating 효과<br />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
+<br />
+<img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=Apple&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+
+<br />
+
 ## 작업 내용
 - 상단 헤더 내 메인 메뉴 hover 효과
 - 마우스 아래로 스크롤 시, 상단 헤더 border-bottom 생성
@@ -13,6 +27,8 @@ JS : scroll animation, 이미지 floating 효과<br />
 - 메인 페이지 하단 버튼 floating 효과 및 특정 위치 연결
 - 각 섹션별 스크롤 애니메이션 구현 (delay 사용하여 시간차 효과)
 - 대부분의 링크는 실제 페이지로 연결되도록 함<br />
+
+<br />
 
 ## 아쉬운 점
 - 메인 페이지 하단 버튼 클릭 시, 이동하는 위치가 뷰포트(모니터?) 크기에 따라 변경되는 점
